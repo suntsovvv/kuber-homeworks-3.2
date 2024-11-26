@@ -9,12 +9,6 @@
 1. Развёрнутые ВМ с ОС Ubuntu 20.04-lts.
 
 
-### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
-
-1. [Инструкция по установке kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/).
-2. [Документация kubespray](https://kubespray.io/).
-
------
 
 ### Задание 1. Установить кластер k8s с 1 master node
 
